@@ -1,6 +1,6 @@
 # artigo-sbie-jogos-artefatos
 
-- "GGame tracker - executavel" é o executável do jogo.
+- "Game tracker - executavel" é o executável do jogo.
 
 - "demo gameplay" - é um arquivo de vídeo avi com uma demontração do gameplay do jogo.
 
